@@ -30,6 +30,8 @@
 
 言語
 ------
-
+* Foo(int **param)、Bar(Foo &*foo)といったポインターへのポインターや参照を引数として使うべき用例をしめす
+* ストレージクラス（auto, extern, static, register, mutable）の説明
+* volatileの説明
 
 
