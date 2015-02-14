@@ -50,9 +50,16 @@
 * [C++]volatileの説明
 * [C++]マクロとinlineの説明
 * [C++]friendクラスの説明
-* C++とJavaの相違点
+* [共通]C++とJavaの相違点
 * [SQL]Bar(name CHAR(255), day INT(2))にデータを挿入するSQLスクリプトを書く
 * [SQL]会社と従業員テーブルのER図を書いて説明
+* [共通]例外チェーンの説明
+* [Java]ExceptionとRuntimeExceptionのどちらを使うべきか議論（正解はなし）
+* [Java]注釈（annotation）の説明
+* [共通]基本データ構造のGenericsやtemplateで表現
+* [Java]Stringは可変か非可変か
+* [Java]アレイをオブジェクトとして表現
+* [共通]staticの意味の説明
 
 注意すべき非技術的質問
 ------
